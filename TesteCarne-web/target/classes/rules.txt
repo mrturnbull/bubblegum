@@ -1,0 +1,7 @@
+cor_pontoscoloridos 
+cor_verde
+odor_frutal
+odor_podre
+textura_limosa
+boi,cor_amarela
+acougue

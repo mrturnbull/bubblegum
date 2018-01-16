@@ -1,0 +1,17 @@
+com/dunedin/questionario/AuxResposta.class
+com/dunedin/questionario/AlternativaPK.class
+com/dunedin/questionario/AlternativaManager.class
+com/dunedin/questionario/AlternativaManagerBean.class
+com/dunedin/questionario/RegraPrologManagerBean.class
+com/dunedin/questionario/PerguntaManager.class
+com/dunedin/questionario/RegraProlog.class
+com/dunedin/questionario/Alternativa.class
+com/dunedin/questionario/UsuarioManager.class
+com/dunedin/questionario/PerguntaManagerBean.class
+com/dunedin/questionario/RegraPrologManager.class
+com/dunedin/questionario/Pergunta.class
+com/dunedin/questionario/UsuarioManagerBean.class
+com/dunedin/questionario/Usuario.class
+com/dunedin/questionario/RespostaManager.class
+com/dunedin/questionario/RespostaManagerBean.class
+com/dunedin/questionario/Resposta.class
